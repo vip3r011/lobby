@@ -1,0 +1,35 @@
+{
+  "name": "lobby",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Neil Morgan",
+  "linkedIn": "https://www.linkedin.com/in/neil-morgan-9a8ba11a1/",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@chakra-ui/icons": "1.0.7",
+    "@chakra-ui/react": "1.4.1",
+    "@emotion/react": "11.1.5",
+    "@emotion/styled": "11.1.5",
+    "@fontsource/inter": "4.2.2",
+    "emotion-theming": "11.0.0",
+    "fontsource-inter": "4.0.0",
+    "framer-motion": "4.0.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "react-swipeable": "7.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
